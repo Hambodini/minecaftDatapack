@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "apoc:jungle_club"
+            }
+        }
+    },
+    "rewards": {
+        "function": "apoc:give_jungle_club"
+    }
+}
