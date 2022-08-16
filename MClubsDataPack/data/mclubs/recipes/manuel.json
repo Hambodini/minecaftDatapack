@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#B#",
+        " C "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:oak_log"
+        },
+        "B": {
+            "item": "minecraft:book"
+        },
+        "C": {
+            "item": "minecraft:campfire"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

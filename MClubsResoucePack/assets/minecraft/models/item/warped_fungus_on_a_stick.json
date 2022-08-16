@@ -1,0 +1,86 @@
+{
+  "parent": "minecraft:item/handheld_rod",
+  "textures": {
+    "layer0": "minecraft:item/warped_fungus_on_a_stick"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 9990001
+      },
+      "model": "acacia_club:item/acacia_club"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9990002
+      },
+      "model": "birch_club:item/birch_club"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9990003
+      },
+      "model": "crimson_club:item/crimson_club"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9990004
+      },
+      "model": "dark_oak_club:item/dark_oak_club"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9990005
+      },
+      "model": "diamond_club:item/diamond_club"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9990006
+      },
+      "model": "gold_club:item/gold_club"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9990007
+      },
+      "model": "iron_club:item/iron_club"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9990008
+      },
+      "model": "jungle_club:item/jungle_club"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9990009
+      },
+      "model": "mangrove_club:item/mangrove_club"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9990010
+      },
+      "model": "oak_club:item/oak_club"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9990011
+      },
+      "model": "spruce_club:item/spruce_club"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9990012
+      },
+      "model": "stone_club:item/stone_club"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9990013
+      },
+      "model": "warped_club:item/warped_club"
+    }
+  ]
+}

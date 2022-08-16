@@ -1,0 +1,1 @@
+scoreboard players set @p mclubs.canUseRageAbility 1
