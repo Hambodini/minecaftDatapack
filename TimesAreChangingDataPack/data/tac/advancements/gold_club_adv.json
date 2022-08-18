@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "tac:gold_club"
+            }
+        }
+    },
+    "rewards": {
+        "function": "tac:give_gold_club"
+    }
+}

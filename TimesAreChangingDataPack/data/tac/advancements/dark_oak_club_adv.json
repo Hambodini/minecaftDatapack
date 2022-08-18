@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "tac:dark_oak_club"
+            }
+        }
+    },
+    "rewards": {
+        "function": "tac:give_dark_oak_club"
+    }
+}

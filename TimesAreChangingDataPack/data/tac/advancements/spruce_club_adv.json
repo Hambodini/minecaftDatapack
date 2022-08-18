@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "tac:spruce_club"
+            }
+        }
+    },
+    "rewards": {
+        "function": "tac:give_spruce_club"
+    }
+}
